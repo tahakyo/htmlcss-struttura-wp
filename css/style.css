@@ -35,3 +35,18 @@ nav{
     background-color: #e1d67a;
 
 }
+section{
+    height: 30px;
+    background-color: #abcfe7;
+
+}
+article{
+    height: 350px;
+    background-color: #0884fb;
+}
+
+.side{
+    width: 25%;
+    height: 100%;
+    background-color: #abcfe7;
+}
