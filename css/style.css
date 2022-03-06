@@ -10,6 +10,9 @@
     display: table;
     clear: both;
 }
+.margin-btm{
+    margin-bottom: 15px;
+}
 
 .container{
     width: 80%;
@@ -18,11 +21,17 @@
     border: 1px solid black;
     margin: 25px auto
 }
+/* HEADER */
+
 header{
     height: 50px;
     background-color: #e579e6;
 
 }
-.first-section{
+/* MAIN */
+
+nav{
+    height: 300px;
+    background-color: #e1d67a;
 
 }
