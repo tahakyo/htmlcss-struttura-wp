@@ -43,10 +43,22 @@ section{
 article{
     height: 350px;
     background-color: #0884fb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.float{
+    float: left;
 }
 
 .side{
     width: 25%;
     height: 100%;
     background-color: #abcfe7;
+}
+.center{
+    width:calc(50% - 20px);
+    height: 100%;
+    background-color: aqua;
+    margin: 0 10px;
 }
