@@ -4,3 +4,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* COMMON */
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container{
+    width: 80%;
+    max-width: 1200px;
+    height: 1000px;
+    border: 1px solid black;
+    margin: 25px auto
+}
+header{
+    height: 50px;
+    background-color: #e579e6;
+
+}
+.first-section{
+
+}
